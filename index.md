@@ -15,7 +15,7 @@ Rhino CMS embeds a homemade player with the ability to generate conditional play
 
 ### A federated platform for federated broadcasts
 
-OK, we love federated platforms like Mastodon, Peertube, and so on. We believe in the struggle to re-decentralize the internet, and [ActivityPub](http://activitypub.rocks/) is exactly the tool we were missing to help building networks of independent medias. 
+OK, we love federated platforms like Mastodon, Peertube, and so on. We believe in the struggle to re-decentralize the internet, and [ActivityPub](http://activitypub.rocks/) is exactly the specification we were missing to build interconnected networks of independent medias. 
 
 For the moment, ActivityPub is not yet implemented in Rhino CMS but it's one of the main key features we'd love to offer in the next major updates.
 
