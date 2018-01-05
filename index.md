@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Rhino webradio CMS Project
+### A new hope for radio resistance
 
-You can use the [editor on GitHub](https://github.com/RadioRhino/rhinocms.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Rhino CMS aims to allow an emancipation from centralized streaming platforms to radio collectives, channels and networks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a free software project, to which you're invited to give us your feedback, your technical help, etc.
 
-### Markdown
+For now, it is only at a very primary state and is still missing some basic functionnality. We hope to release a first public version in late 2018.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The webradio CMS we've all been waiting
 
-```markdown
-Syntax highlighted code block
+If you've looked for a simple, functional, designed for radio CMS, it's highly probable you've never found it.
+Rhino CMS embeds a homemade player with the ability to generate conditional playlists, to switch between podcasts and live shows, and many other features.
 
-# Header 1
-## Header 2
-### Header 3
+### A federated platform for federated broadcasts
 
-- Bulleted
-- List
+OK, we love federated platforms like Mastodon, Peertube, and so on. We believe in the struggle to re-decentralize the internet, and [ActivityPub](http://activitypub.rocks/) is exactly the tool we were missing to help building networks of independent medias. 
 
-1. Numbered
-2. List
+For the moment, ActivityPub is not yet implemented in Rhino CMS but it's one of the main key features we'd love to offer in the next major updates.
 
-**Bold** and _Italic_ and `Code` text
+### Social interactions
 
-[Link](url) and ![Image](src)
-```
+For the moment, social interactions are inexistent. We're interested in Matrix for chatrooms, 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Yunohost integration
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RadioRhino/rhinocms.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Rhino CMS is already compatible with Yunohost !
